@@ -8,6 +8,6 @@ description 'This module manages RabbitMQ. Tested on Debian/Ubuntu'
 project_page 'http://github.com/puppetlabs/puppetlabs-rabbitmq'
 
 ## Add dependencies, if any:
-dependency 'puppetlabs/stdlib', '>= 2.0.0'
-dependency 'puppetlabs/apt', '>= 1.0.0'
+dependency 'puppetlabs/stdlib', '>= 4.1.0'
+dependency 'puppetlabs/apt', '>= 1.2.0'
 dependency 'garethr/erlang', '>= 0.1.0'
